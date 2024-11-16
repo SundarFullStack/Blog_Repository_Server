@@ -171,4 +171,8 @@ app.delete("/post/:id", async (req, res) => {
   }
 });
 
+// app.get("/", (req, res) => {
+//   res.json("Hi Im working");
+// });
+
 // mongodb+srv://meenakshisunder183017:DMLab1%40pacr.org@sundar.qhyhwwt.mongodb.net/?retryWrites=true&w=majority&appName=Sundar
