@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "npx nodemon server.js"
+    "start": "nodemon index.js"
   },
   "author": "Sundar",
   "license": "ISC",
